@@ -1,13 +1,13 @@
 # WebChat - Full Stack Chat Application
 
 <p float="left">
-  <img src="./Client/src/assets/Login(webchat).png" alt="Login" width="500" />
-  <img src="./Client/src/assets/Signup.png" alt="Signup" width="500" />
+  <img src="./Client/src/assets/Login(webchat).png" alt="Login" width="400" />
+  <img src="./Client/src/assets/Signup.png" alt="Signup" width="400" />
 </p>
 
 <p float="left">
-  <img src="./Client/src/assets/ChatSection.png" alt="ChatSection" width="500" />
-  <img src="./Client/src/assets/ProfileUpdate.png" alt="ProfileUpdate" width="500" />
+  <img src="./Client/src/assets/ChatSection.png" alt="ChatSection" width="400" />
+  <img src="./Client/src/assets/ProfileUpdate.png" alt="ProfileUpdate" width="400" />
 </p>
 
 
