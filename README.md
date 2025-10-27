@@ -1,9 +1,15 @@
 # WebChat - Full Stack Chat Application
 
-<img src="./Client/src/assets/Login(webchat).png" alt="WebChat Logo" width="300"/>
-<img src="./Client/src/assets/Signup.png" alt="WebChat Logo" width="300"/>
-<img src="./Client/src/assets/ChatSection.png" alt="WebChat Logo" width="300"/>
-<img src="./Client/src/assets/ProfileUpdate.png" alt="WebChat Logo" width="300"/>
+<p float="left">
+  <img src="./Client/src/assets/Login(webchat).png" alt="Login" width="500" />
+  <img src="./Client/src/assets/Signup.png" alt="Signup" width="500" />
+</p>
+
+<p float="left">
+  <img src="./Client/src/assets/ChatSection.png" alt="ChatSection" width="500" />
+  <img src="./Client/src/assets/ProfileUpdate.png" alt="ProfileUpdate" width="500" />
+</p>
+
 
 
 **WebChat** is a real-time chat application built using **MERN Stack** and deployed on **AWS EC2**. It allows users to sign up, login, and chat with anyone who is registered. Users can share images, search for specific users, and see online/offline statuses in real-time. This project is intended for **learning and testing purposes**, demonstrating both frontend and backend integration, as well as deployment practices on AWS.
